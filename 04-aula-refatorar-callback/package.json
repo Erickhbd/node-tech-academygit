@@ -1,0 +1,13 @@
+{
+  "name": "04-aula-refatorar-callback",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erick Luciano",
+  "license": "MIT",
+  "keywords": [],
+  "description": ""
+}
